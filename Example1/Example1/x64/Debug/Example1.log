@@ -1,0 +1,8 @@
+﻿  Example1.cpp
+d:\temp\c++ examples\example1\example1\example1.cpp(721): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\temp\c++ examples\example1\example1\example1.cpp(539): warning C4101: 'xy': unreferenced local variable
+d:\temp\c++ examples\example1\example1\example1.cpp(550): warning C4101: 'boolcon': unreferenced local variable
+d:\temp\c++ examples\example1\example1\example1.cpp(542): warning C4101: 't': unreferenced local variable
+d:\temp\c++ examples\example1\example1\example1.cpp(351): warning C4715: 'slide<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int> > > >': not all control paths return a value
+  Example1.vcxproj -> D:\temp\C++ examples\Example1\x64\Debug\Example1.exe
+  Example1.vcxproj -> D:\temp\C++ examples\Example1\x64\Debug\Example1.pdb (Full PDB)
