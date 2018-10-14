@@ -1,9 +1,0 @@
-﻿  Example1.cpp
-Example1.cpp(260): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Generating code
-  1 of 566 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    7 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Example1.vcxproj -> D:\temp\C++ examples\Example1\x64\Release\Example1.exe
-  Example1.vcxproj -> D:\temp\C++ examples\Example1\x64\Release\Example1.pdb (Full PDB)
